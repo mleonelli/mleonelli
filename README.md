@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**mleonelli/mleonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Mauro Leonelli](https://www.mauroleonelli.com)
 
-Here are some ideas to get you started:
+![Mauro Leonelli](/mauro.jpg "Mauro speeking at EURECOM Alumni meeting")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some facts about me...
+---
+- 🔭 I’m currently working as **Business Analyst and Innovation** at **[Amadeus](https://amadeus.com)**
+
+- 🎓 I hold a double MSc in **Telecommunication Engineering** from **[Politecnico di Torino](https://polito.it)** and **[EURECOM](https://eurecom.fr)**
+
+- 🌱 I’m currently learning **Python for Data Science** and strengthening my **Product Management** skills with [OpenClassrooms](https://openclassrooms.com/)
+
+- 👯 I’m looking to collaborate on **Data Science** projects
+
+- 📫 How to reach me: you can get in touch with me on **[LinkedIn](https://www.linkedin.com/in/mauroleonelli/)**
+
+
