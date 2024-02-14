@@ -6,7 +6,7 @@ I'm [Mauro Leonelli](https://www.mauroleonelli.com)
 
 ### Some facts about me...
 ---
-- 🔭 I’m currently working as **Business Analyst and Innovation** at **[Amadeus](https://amadeus.com)**
+- 🔭 I’m currently working as **Product Manager** at **[Amadeus](https://amadeus.com)**
 
 - 🎓 I hold a double MSc in **Telecommunication Engineering** from **[Politecnico di Torino](https://polito.it)** and **[EURECOM](https://eurecom.fr)**
 
